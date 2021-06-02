@@ -3,11 +3,15 @@ package practica2;
 /**
  * 
  * @author Esther Pizarro Soto
- *
+ * @date 02/06/2021
+ * 
  */
 
 public class CCuenta {
 	
+	/**
+	 * Atributos de la clase CCuenta
+	 */
 	private String nombre;
     private String cuenta;
     private double saldo;

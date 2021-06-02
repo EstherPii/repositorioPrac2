@@ -3,13 +3,16 @@ package practica2;
 /**
  * 
  * @author Esther Pizarro Soto
- *
+ * @date 02/06/2021
  */
 
 public class Main {
 	
 	public static void main(String[] args) {
 
+		/**
+		 * Atributos de la clase Main
+		 */
         CCuenta cuentaUno;
         double saldoActual;
 
