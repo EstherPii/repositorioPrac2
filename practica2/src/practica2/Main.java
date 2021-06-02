@@ -1,5 +1,11 @@
 package practica2;
 
+/**
+ * 
+ * @author Esther Pizarro Soto
+ *
+ */
+
 public class Main {
 	
 	public static void main(String[] args) {
@@ -23,7 +29,11 @@ public class Main {
     }
 	
 	
-	
+	/**
+	 * Método operaCuenta: permite ingresar o retirar una cantidad.
+	 * @param cuentaUno 
+	 * @param cantidad 
+	 */
 	public static void operaCuenta(CCuenta cuentaUno, float cantidad) {
 		
 		try {
